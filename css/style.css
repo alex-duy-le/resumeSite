@@ -1,0 +1,7 @@
+body {height: 100%; background: #ffffff; margin: 0; padding: 0;} 
+a {color: #2b2bf6;}           
+#container {width: 100%; margin: 0; padding: 0; background: #dddddd;}           
+#header {width: 100%; 	height: 20%; 	margin: 0; padding: 0; border: 0; background: #f346e1;}           
+#sidebar {width: 30%; height: 100%; 	margin: 0; padding: 0; border: 0; float: left; background: #f0e811;}           
+#content {width: 70%; height: 100%; 	margin: 0; padding: 0; border: 0; float: left; background: #8be0ef;}           
+#footer {width: 100%; 	height: 10%; 	margin: 0; padding: 0; border: 0; float: left; background: #000000; clear:both;}                            
